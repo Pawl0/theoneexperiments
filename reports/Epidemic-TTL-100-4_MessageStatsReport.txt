@@ -1,0 +1,20 @@
+Message stats for scenario Epidemic-TTL-100-4
+sim_time: 90000.0000
+created: 3054
+started: 1372334
+relayed: 1150785
+aborted: 221506
+dropped: 1149229
+removed: 0
+delivered: 815
+delivery_prob: 0.2669
+response_prob: 0.0000
+overhead_ratio: 1411.0061
+latency_avg: 3231.4763
+latency_med: 3288.4000
+hopcount_avg: 15.4834
+hopcount_med: 14
+buffertime_avg: 275.5536
+buffertime_med: 179.2000
+rtt_avg: NaN
+rtt_med: NaN

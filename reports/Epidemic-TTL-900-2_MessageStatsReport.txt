@@ -1,0 +1,20 @@
+Message stats for scenario Epidemic-TTL-900-2
+sim_time: 90000.0000
+created: 3050
+started: 1697748
+relayed: 1447678
+aborted: 250024
+dropped: 1445813
+removed: 0
+delivered: 337
+delivery_prob: 0.1105
+response_prob: 0.0000
+overhead_ratio: 4294.7804
+latency_avg: 4997.8991
+latency_med: 3837.2000
+hopcount_avg: 21.8813
+hopcount_med: 17
+buffertime_avg: 268.4230
+buffertime_med: 170.2000
+rtt_avg: NaN
+rtt_med: NaN

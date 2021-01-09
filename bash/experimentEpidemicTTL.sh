@@ -1,0 +1,1 @@
+./experimentWithParams.sh Epidemic TTL 300 500 700 900

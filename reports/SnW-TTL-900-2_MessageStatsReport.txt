@@ -1,0 +1,20 @@
+Message stats for scenario SnW-TTL-900-2
+sim_time: 90000.0000
+created: 3050
+started: 18113
+relayed: 17735
+aborted: 377
+dropped: 14649
+removed: 0
+delivered: 2560
+delivery_prob: 0.8393
+response_prob: 0.0000
+overhead_ratio: 5.9277
+latency_avg: 6393.6449
+latency_med: 4637.4000
+hopcount_avg: 2.5371
+hopcount_med: 3
+buffertime_avg: 16328.2890
+buffertime_med: 14323.9000
+rtt_avg: NaN
+rtt_med: NaN

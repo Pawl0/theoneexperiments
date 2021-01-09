@@ -1,0 +1,20 @@
+Message stats for scenario SnW-TTL-700-3
+sim_time: 90000.0000
+created: 3053
+started: 18184
+relayed: 17760
+aborted: 422
+dropped: 14619
+removed: 0
+delivered: 2586
+delivery_prob: 0.8470
+response_prob: 0.0000
+overhead_ratio: 5.8677
+latency_avg: 6532.9129
+latency_med: 4875.6000
+hopcount_avg: 2.5843
+hopcount_med: 3
+buffertime_avg: 16408.4969
+buffertime_med: 14603.8000
+rtt_avg: NaN
+rtt_med: NaN

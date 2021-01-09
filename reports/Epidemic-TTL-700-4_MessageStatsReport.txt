@@ -1,0 +1,20 @@
+Message stats for scenario Epidemic-TTL-700-4
+sim_time: 90000.0000
+created: 3054
+started: 1680442
+relayed: 1429653
+aborted: 250742
+dropped: 1427856
+removed: 0
+delivered: 384
+delivery_prob: 0.1257
+response_prob: 0.0000
+overhead_ratio: 3722.0547
+latency_avg: 4733.2542
+latency_med: 3034.6000
+hopcount_avg: 20.2500
+hopcount_med: 13
+buffertime_avg: 268.2593
+buffertime_med: 171.3000
+rtt_avg: NaN
+rtt_med: NaN

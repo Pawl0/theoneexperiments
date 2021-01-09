@@ -1,0 +1,20 @@
+Message stats for scenario SnW-TTL-300-9
+sim_time: 90000.0000
+created: 3045
+started: 17912
+relayed: 17532
+aborted: 380
+dropped: 15366
+removed: 0
+delivered: 2422
+delivery_prob: 0.7954
+response_prob: 0.0000
+overhead_ratio: 6.2386
+latency_avg: 5295.4752
+latency_med: 4207.3000
+hopcount_avg: 2.4748
+hopcount_med: 2
+buffertime_avg: 13353.2120
+buffertime_med: 14896.7000
+rtt_avg: NaN
+rtt_med: NaN

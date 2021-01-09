@@ -1,0 +1,20 @@
+Message stats for scenario SnW-TTL-500-8
+sim_time: 90000.0000
+created: 3048
+started: 18099
+relayed: 17719
+aborted: 380
+dropped: 14774
+removed: 0
+delivered: 2537
+delivery_prob: 0.8323
+response_prob: 0.0000
+overhead_ratio: 5.9842
+latency_avg: 5984.9635
+latency_med: 4530.2000
+hopcount_avg: 2.5325
+hopcount_med: 3
+buffertime_avg: 15688.4357
+buffertime_med: 14232.0000
+rtt_avg: NaN
+rtt_med: NaN

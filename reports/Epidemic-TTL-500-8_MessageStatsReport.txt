@@ -1,0 +1,20 @@
+Message stats for scenario Epidemic-TTL-500-8
+sim_time: 90000.0000
+created: 3048
+started: 1630712
+relayed: 1382129
+aborted: 248542
+dropped: 1380498
+removed: 0
+delivered: 396
+delivery_prob: 0.1299
+response_prob: 0.0000
+overhead_ratio: 3489.2247
+latency_avg: 5022.2697
+latency_med: 3588.9000
+hopcount_avg: 21.5859
+hopcount_med: 17
+buffertime_avg: 267.5228
+buffertime_med: 170.3000
+rtt_avg: NaN
+rtt_med: NaN

@@ -1,0 +1,20 @@
+Message stats for scenario SnW-TTL-100-8
+sim_time: 90000.0000
+created: 3048
+started: 17152
+relayed: 16779
+aborted: 373
+dropped: 17075
+removed: 0
+delivered: 1597
+delivery_prob: 0.5240
+response_prob: 0.0000
+overhead_ratio: 9.5066
+latency_avg: 2944.5327
+latency_med: 2921.6000
+hopcount_avg: 2.4834
+hopcount_med: 2
+buffertime_avg: 5638.6068
+buffertime_med: 5825.0000
+rtt_avg: NaN
+rtt_med: NaN

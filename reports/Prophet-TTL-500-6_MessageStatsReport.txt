@@ -1,0 +1,20 @@
+Message stats for scenario Prophet-TTL-500-6
+sim_time: 90000.0000
+created: 3052
+started: 1273930
+relayed: 1074897
+aborted: 198989
+dropped: 1074008
+removed: 0
+delivered: 268
+delivery_prob: 0.0878
+response_prob: 0.0000
+overhead_ratio: 4009.8097
+latency_avg: 5768.5511
+latency_med: 4544.9000
+hopcount_avg: 8.2090
+hopcount_med: 7
+buffertime_avg: 288.7859
+buffertime_med: 126.9000
+rtt_avg: NaN
+rtt_med: NaN

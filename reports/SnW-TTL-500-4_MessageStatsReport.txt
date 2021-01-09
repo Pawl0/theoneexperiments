@@ -1,0 +1,20 @@
+Message stats for scenario SnW-TTL-500-4
+sim_time: 90000.0000
+created: 3054
+started: 18136
+relayed: 17720
+aborted: 414
+dropped: 14864
+removed: 0
+delivered: 2544
+delivery_prob: 0.8330
+response_prob: 0.0000
+overhead_ratio: 5.9654
+latency_avg: 6206.8660
+latency_med: 4728.1000
+hopcount_avg: 2.5472
+hopcount_med: 3
+buffertime_avg: 15943.7113
+buffertime_med: 14653.3000
+rtt_avg: NaN
+rtt_med: NaN

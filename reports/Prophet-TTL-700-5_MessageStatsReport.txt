@@ -1,0 +1,20 @@
+Message stats for scenario Prophet-TTL-700-5
+sim_time: 90000.0000
+created: 3051
+started: 1260736
+relayed: 1060256
+aborted: 200437
+dropped: 1059309
+removed: 0
+delivered: 268
+delivery_prob: 0.0878
+response_prob: 0.0000
+overhead_ratio: 3955.1791
+latency_avg: 5460.1799
+latency_med: 4105.4000
+hopcount_avg: 7.4739
+hopcount_med: 6
+buffertime_avg: 289.1505
+buffertime_med: 126.5000
+rtt_avg: NaN
+rtt_med: NaN

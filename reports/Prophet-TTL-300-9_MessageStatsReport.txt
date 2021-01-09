@@ -1,0 +1,20 @@
+Message stats for scenario Prophet-TTL-300-9
+sim_time: 90000.0000
+created: 3045
+started: 1170283
+relayed: 986801
+aborted: 183437
+dropped: 986013
+removed: 0
+delivered: 372
+delivery_prob: 0.1222
+response_prob: 0.0000
+overhead_ratio: 2651.6909
+latency_avg: 4980.4433
+latency_med: 4215.3000
+hopcount_avg: 7.2796
+hopcount_med: 6
+buffertime_avg: 297.2587
+buffertime_med: 131.1000
+rtt_avg: NaN
+rtt_med: NaN

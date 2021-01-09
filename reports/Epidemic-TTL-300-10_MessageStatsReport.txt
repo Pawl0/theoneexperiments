@@ -1,0 +1,20 @@
+Message stats for scenario Epidemic-TTL-300-10
+sim_time: 90000.0000
+created: 3048
+started: 1579300
+relayed: 1332650
+aborted: 246611
+dropped: 1331066
+removed: 0
+delivered: 512
+delivery_prob: 0.1680
+response_prob: 0.0000
+overhead_ratio: 2601.8320
+latency_avg: 5076.0582
+latency_med: 4413.7000
+hopcount_avg: 22.2676
+hopcount_med: 18
+buffertime_avg: 268.8203
+buffertime_med: 171.9000
+rtt_avg: NaN
+rtt_med: NaN
