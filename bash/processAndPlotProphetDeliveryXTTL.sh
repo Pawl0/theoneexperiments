@@ -1,0 +1,1 @@
+bash ./processAll.sh delivery_prob Prophet TTL 100 300 500 700 900 ../reports ../python/prophet/TTL/delivery/

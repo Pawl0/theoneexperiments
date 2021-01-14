@@ -1,43 +1,59 @@
 import os
+import sys
 import pathlib
 import matplotlib.pyplot as plt 
 
-os.chdir(os.getcwd()+"/overhead")
+param = sys.argv[1]
 
+def calcAverages(algorithm):
+    averages = []
+    # changes directory to given path
+    os.chdir(os.getcwd()+"/"+algorithm+"/"+param+"/overhead")
+    os.getcwd()
+    directory = os.fsencode(os.getcwd())
+    print(directory)
+    for file in sorted(os.listdir(directory)):
+        filename = os.fsdecode(file)
+        
+        if filename.endswith("overhead_ratio.txt"): 
+            valores = []
+            with open(filename,'r') as f:
+                valores[:] = [float(x) for x in f.readlines()]
+                averages.append(sum(valores)/len(valores))
+        else:
+            continue
+    
+    print(averages)
+    os.chdir("../../../")
+    return averages
+    
 
-directory = os.fsencode(os.getcwd())
-
-print(directory)
-
-medias = []
-for file in sorted(os.listdir(directory)):
-     filename = os.fsdecode(file)
-     
-     if filename.endswith("overhead_ratio.txt"): 
-         valores = []
-         with open(filename,'r') as f:
-            valores[:] = [float(x) for x in f.readlines()]
-            medias.append(sum(valores)/len(valores))
-     else:
-         continue
-
-print(medias)
+averagesEpidemic = calcAverages("epidemic")
+averagesProphet = calcAverages("prophet")
+averagesSnW = calcAverages("snw")
 
 # x axis values 
-x = [100,300,500,700,900] 
+x1 = x2 = x3 = [sys.argv[2],sys.argv[3],sys.argv[4],sys.argv[5],sys.argv[6]] 
 # corresponding y axis values 
-y = medias 
+y1 = averagesEpidemic 
+y2 = averagesProphet 
+y3 = averagesSnW 
   
-# plotting the points  
-plt.plot(x, y) 
+# plotting the points per algorithm 
+plt.plot(x1, y1, label="Epidêmico") 
+plt.plot(x2, y2, label="Prophet") 
+plt.plot(x3, y3, label="SnW") 
   
 # naming the x axis 
-plt.xlabel('TTL') 
+plt.xlabel(sys.argv[1]) 
 # naming the y axis 
 plt.ylabel('overhead ratio') 
   
-# giving a title to my graph 
-plt.title('Overhead ratio x TTL') 
+# graph title
+plt.title('Sobrecarga') 
   
-# function to show the plot 
-plt.show() 
+# graph legend
+plt.legend()
+
+# function to save the plot 
+plt.savefig('./graphs/overhead_'+param+'.png')

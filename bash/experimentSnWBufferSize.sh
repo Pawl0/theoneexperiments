@@ -1,1 +1,1 @@
-./experimentWithParams.sh BufferSize 5 15 25 35 45
+./experimentWithParamsFull.sh SnW BufferSize 5 15 25 35 45

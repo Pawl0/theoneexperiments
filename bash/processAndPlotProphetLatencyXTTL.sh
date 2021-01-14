@@ -1,0 +1,1 @@
+bash ./processAll.sh latency_avg Prophet TTL 100 300 500 700 900 ../reports ../python/prophet/TTL/latency/

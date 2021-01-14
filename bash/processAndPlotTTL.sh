@@ -1,3 +1,3 @@
-bash ./processAndPlotDeliveryXTTL.sh
-bash ./processAndPlotLatencyXTTL.sh
-bash ./processAndPlotOverheadXTTL.sh
+bash ./processAndPlotTTLOverhead.sh
+bash ./processAndPlotTTLDelivery.sh
+bash ./processAndPlotTTLLatency.sh

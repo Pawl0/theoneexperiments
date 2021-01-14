@@ -1,1 +1,1 @@
-./experimentWithParams.sh Prophet BufferSize 5 15 25 35 45
+./experimentWithParams.sh Prophet BufferSize 15 25 35 45

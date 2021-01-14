@@ -1,0 +1,1 @@
+bash ./processAll.sh delivery_prob SnW TTL 100 300 500 700 900 ../reports ../python/snw/TTL/delivery/

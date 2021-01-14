@@ -1,0 +1,20 @@
+Message stats for scenario Epidemic-BufferSize-35-10
+sim_time: 90000.0000
+created: 3048
+started: 1908541
+relayed: 1622365
+aborted: 286124
+dropped: 1596988
+removed: 0
+delivered: 1618
+delivery_prob: 0.5308
+response_prob: 0.0000
+overhead_ratio: 1001.6978
+latency_avg: 5490.1454
+latency_med: 5079.6000
+hopcount_avg: 6.4394
+hopcount_med: 6
+buffertime_avg: 1461.8354
+buffertime_med: 1257.4000
+rtt_avg: NaN
+rtt_med: NaN

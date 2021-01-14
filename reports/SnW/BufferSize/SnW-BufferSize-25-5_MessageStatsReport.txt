@@ -1,0 +1,20 @@
+Message stats for scenario SnW-BufferSize-25-5
+sim_time: 90000.0000
+created: 3051
+started: 18156
+relayed: 17762
+aborted: 393
+dropped: 14602
+removed: 0
+delivered: 2599
+delivery_prob: 0.8519
+response_prob: 0.0000
+overhead_ratio: 5.8342
+latency_avg: 5895.9727
+latency_med: 4825.9000
+hopcount_avg: 2.4429
+hopcount_med: 2
+buffertime_avg: 17736.5847
+buffertime_med: 17850.6000
+rtt_avg: NaN
+rtt_med: NaN

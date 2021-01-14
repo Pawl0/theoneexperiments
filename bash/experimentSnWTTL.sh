@@ -1,1 +1,1 @@
-./experimentWithParams.sh SnW TTL 100 300 500 700 900
+./experimentWithParamsFull.sh SnW TTL 100 300 500 700 900

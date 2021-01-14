@@ -1,1 +1,1 @@
-./experimentWithParams.sh Epidemic TTL 300 500 700 900
+./experimentWithParamsFull.sh Epidemic TTL 100 300 500 700 900

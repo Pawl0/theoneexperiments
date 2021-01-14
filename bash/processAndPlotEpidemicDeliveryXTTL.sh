@@ -1,0 +1,1 @@
+bash ./processAll.sh delivery_prob Epidemic TTL 100 300 500 700 900 ../reports ../python/epidemic/TTL/delivery/
