@@ -6,6 +6,6 @@ do
   do
     arq="$9/$2/$3/$2-$3-${variable}-${i}_MessageStatsReport.txt"
     searchArg=$1
-    awk -v s="$searchArg" '$0 ~ s {print $2}' $arq >> ${10}-$2-$3-${variable}-$1.txt
+    awk -v s="$searchArg" '$0 ~ s {print $2}' $arq >> ${10}$2-$3-${variable}-$1.txt
   done
 done

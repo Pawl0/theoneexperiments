@@ -1,0 +1,1 @@
+bash ./processAll.sh delivery_prob Prophet BufferSize 5 15 25 35 45 ../reports ../python/prophet/BufferSize/delivery/

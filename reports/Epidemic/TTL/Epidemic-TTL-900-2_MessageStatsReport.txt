@@ -1,20 +1,20 @@
-Message stats for scenario Epidemic-TTL-900-2
+Message stats for scenario EpidemicRouter-TTL-900-2
 sim_time: 90000.0000
-created: 3050
-started: 1697748
-relayed: 1447678
-aborted: 250024
-dropped: 1445813
+created: 3051
+started: 408939
+relayed: 351488
+aborted: 57435
+dropped: 352013
 removed: 0
-delivered: 337
-delivery_prob: 0.1105
+delivered: 424
+delivery_prob: 0.1390
 response_prob: 0.0000
-overhead_ratio: 4294.7804
-latency_avg: 4997.8991
-latency_med: 3837.2000
-hopcount_avg: 21.8813
-hopcount_med: 17
-buffertime_avg: 268.4230
-buffertime_med: 170.2000
+overhead_ratio: 827.9811
+latency_avg: 4969.8208
+latency_med: 3910.0000
+hopcount_avg: 12.1297
+hopcount_med: 10
+buffertime_avg: 519.7496
+buffertime_med: 348.0000
 rtt_avg: NaN
 rtt_med: NaN

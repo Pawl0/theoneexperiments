@@ -1,20 +1,20 @@
-Message stats for scenario Prophet-TTL-300-1
+Message stats for scenario ProphetRouter-TTL-300-1
 sim_time: 90000.0000
-created: 3049
-started: 1204334
-relayed: 1024036
-aborted: 180264
-dropped: 1023033
+created: 3047
+started: 332750
+relayed: 284887
+aborted: 47853
+dropped: 285604
 removed: 0
-delivered: 373
-delivery_prob: 0.1223
+delivered: 530
+delivery_prob: 0.1739
 response_prob: 0.0000
-overhead_ratio: 2744.4048
-latency_avg: 5636.1836
-latency_med: 5078.8000
-hopcount_avg: 8.1689
-hopcount_med: 7
-buffertime_avg: 299.6795
-buffertime_med: 132.2000
+overhead_ratio: 536.5226
+latency_avg: 5402.1396
+latency_med: 4812.0000
+hopcount_avg: 5.4170
+hopcount_med: 5
+buffertime_avg: 533.0853
+buffertime_med: 257.0000
 rtt_avg: NaN
 rtt_med: NaN

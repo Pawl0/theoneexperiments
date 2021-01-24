@@ -1,20 +1,20 @@
-Message stats for scenario Epidemic-TTL-500-7
+Message stats for scenario EpidemicRouter-TTL-500-7
 sim_time: 90000.0000
-created: 3057
-started: 1612574
-relayed: 1366395
-aborted: 246139
-dropped: 1364919
+created: 3054
+started: 406037
+relayed: 347497
+aborted: 58526
+dropped: 348000
 removed: 0
-delivered: 393
-delivery_prob: 0.1286
+delivered: 481
+delivery_prob: 0.1575
 response_prob: 0.0000
-overhead_ratio: 3475.8321
-latency_avg: 4829.6313
-latency_med: 3668.0000
-hopcount_avg: 20.8550
-hopcount_med: 15
-buffertime_avg: 270.2436
-buffertime_med: 173.0000
+overhead_ratio: 721.4470
+latency_avg: 5101.1746
+latency_med: 3964.0000
+hopcount_avg: 12.4823
+hopcount_med: 9
+buffertime_avg: 512.8059
+buffertime_med: 345.0000
 rtt_avg: NaN
 rtt_med: NaN

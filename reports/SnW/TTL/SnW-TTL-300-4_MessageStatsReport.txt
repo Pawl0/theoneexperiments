@@ -1,20 +1,20 @@
-Message stats for scenario SnW-TTL-300-4
+Message stats for scenario SprayAndWaitRouter-TTL-300-4
 sim_time: 90000.0000
-created: 3054
-started: 18031
-relayed: 17615
-aborted: 414
-dropped: 15497
+created: 3057
+started: 17682
+relayed: 17214
+aborted: 468
+dropped: 16420
 removed: 0
-delivered: 2439
-delivery_prob: 0.7986
+delivered: 2066
+delivery_prob: 0.6758
 response_prob: 0.0000
-overhead_ratio: 6.2222
-latency_avg: 5532.8510
-latency_med: 4503.7000
-hopcount_avg: 2.5301
-hopcount_med: 2
-buffertime_avg: 13496.5660
-buffertime_med: 15186.2000
+overhead_ratio: 7.3320
+latency_avg: 4806.4652
+latency_med: 3877.0000
+hopcount_avg: 2.5745
+hopcount_med: 3
+buffertime_avg: 8687.6884
+buffertime_med: 7687.0000
 rtt_avg: NaN
 rtt_med: NaN

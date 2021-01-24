@@ -1,20 +1,20 @@
-Message stats for scenario SnW-TTL-500-10
+Message stats for scenario SprayAndWaitRouter-TTL-500-10
 sim_time: 90000.0000
-created: 3048
-started: 18059
-relayed: 17687
-aborted: 372
-dropped: 14753
+created: 3053
+started: 17567
+relayed: 17150
+aborted: 416
+dropped: 16224
 removed: 0
-delivered: 2536
-delivery_prob: 0.8320
+delivered: 2034
+delivery_prob: 0.6662
 response_prob: 0.0000
-overhead_ratio: 5.9744
-latency_avg: 6214.0645
-latency_med: 4753.5000
-hopcount_avg: 2.5233
-hopcount_med: 2
-buffertime_avg: 16012.2601
-buffertime_med: 14810.3000
+overhead_ratio: 7.4317
+latency_avg: 5177.7547
+latency_med: 4008.0000
+hopcount_avg: 2.5531
+hopcount_med: 3
+buffertime_avg: 8902.9564
+buffertime_med: 7651.0000
 rtt_avg: NaN
 rtt_med: NaN

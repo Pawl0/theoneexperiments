@@ -1,20 +1,20 @@
-Message stats for scenario Epidemic-BufferSize-5-8
+Message stats for scenario EpidemicRouter-bufferSize-5M-8
 sim_time: 90000.0000
-created: 3048
-started: 1579932
-relayed: 1334875
-aborted: 245016
-dropped: 1333347
+created: 3055
+started: 368084
+relayed: 312833
+aborted: 55241
+dropped: 313420
 removed: 0
-delivered: 502
-delivery_prob: 0.1647
+delivered: 788
+delivery_prob: 0.2579
 response_prob: 0.0000
-overhead_ratio: 2658.1135
-latency_avg: 4994.6518
-latency_med: 4252.4000
-hopcount_avg: 22.4622
-hopcount_med: 18
-buffertime_avg: 268.1744
-buffertime_med: 171.5000
+overhead_ratio: 395.9962
+latency_avg: 3218.1231
+latency_med: 3326.0000
+hopcount_avg: 8.7944
+hopcount_med: 8
+buffertime_avg: 484.6076
+buffertime_med: 331.0000
 rtt_avg: NaN
 rtt_med: NaN

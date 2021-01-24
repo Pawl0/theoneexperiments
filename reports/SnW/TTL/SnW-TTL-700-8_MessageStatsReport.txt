@@ -1,20 +1,20 @@
-Message stats for scenario SnW-TTL-700-8
+Message stats for scenario SprayAndWaitRouter-TTL-700-8
 sim_time: 90000.0000
-created: 3048
-started: 18111
-relayed: 17731
-aborted: 380
-dropped: 14628
+created: 3055
+started: 17614
+relayed: 17198
+aborted: 414
+dropped: 16269
 removed: 0
-delivered: 2549
-delivery_prob: 0.8363
+delivered: 2084
+delivery_prob: 0.6822
 response_prob: 0.0000
-overhead_ratio: 5.9561
-latency_avg: 6114.5918
-latency_med: 4557.5000
-hopcount_avg: 2.5335
+overhead_ratio: 7.2524
+latency_avg: 5012.1852
+latency_med: 3857.0000
+hopcount_avg: 2.5480
 hopcount_med: 3
-buffertime_avg: 16072.3595
-buffertime_med: 14107.0000
+buffertime_avg: 8955.4262
+buffertime_med: 7786.0000
 rtt_avg: NaN
 rtt_med: NaN

@@ -1,20 +1,20 @@
-Message stats for scenario Prophet-TTL-700-3
+Message stats for scenario ProphetRouter-TTL-700-3
 sim_time: 90000.0000
-created: 3053
-started: 1303063
-relayed: 1100949
-aborted: 202074
-dropped: 1099812
+created: 3063
+started: 350162
+relayed: 298209
+aborted: 51942
+dropped: 298924
 removed: 0
-delivered: 266
-delivery_prob: 0.0871
+delivered: 451
+delivery_prob: 0.1472
 response_prob: 0.0000
-overhead_ratio: 4137.9060
-latency_avg: 5104.5158
-latency_med: 3683.4000
-hopcount_avg: 7.2218
-hopcount_med: 6
-buffertime_avg: 288.0414
-buffertime_med: 126.1000
+overhead_ratio: 660.2173
+latency_avg: 5333.6918
+latency_med: 3943.0000
+hopcount_avg: 5.2483
+hopcount_med: 4
+buffertime_avg: 530.2448
+buffertime_med: 252.0000
 rtt_avg: NaN
 rtt_med: NaN

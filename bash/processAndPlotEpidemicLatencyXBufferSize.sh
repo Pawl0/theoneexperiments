@@ -1,0 +1,1 @@
+bash ./processAll.sh latency_avg Epidemic BufferSize 5 15 25 35 45 ../reports ../python/epidemic/BufferSize/latency/

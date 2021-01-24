@@ -12,14 +12,23 @@ def calcAverages(algorithm):
     os.getcwd()
     directory = os.fsencode(os.getcwd())
     print(directory)
-    for file in sorted(os.listdir(directory)):
+    sortedDirList = sorted(os.listdir(directory))
+    sortedDirList.insert(0,sortedDirList[-1])
+    sortedDirList.pop()
+    print("SortedDirList: ",sortedDirList)
+    for file in sortedDirList:
         filename = os.fsdecode(file)
-        
+        print(filename)
         if filename.endswith("delivery_prob.txt"): 
             valores = []
             with open(filename,'r') as f:
                 valores[:] = [float(x) for x in f.readlines()]
-                averages.append(sum(valores)/len(valores))
+                sumVal = sum(valores)
+                lenVal = len(valores)
+                print("Valores: ",valores)
+                print("SumVal: ",sumVal)
+                print("LenVal: ",lenVal)
+                averages.append(sumVal/lenVal)
         else:
             continue
     

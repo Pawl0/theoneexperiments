@@ -1,0 +1,1 @@
+bash ./processAll.sh latency_avg SnW BufferSize 5 15 25 35 45 ../reports ../python/snw/BufferSize/latency/

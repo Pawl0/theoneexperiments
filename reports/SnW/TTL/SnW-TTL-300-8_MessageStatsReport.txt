@@ -1,20 +1,20 @@
-Message stats for scenario SnW-TTL-300-8
+Message stats for scenario SprayAndWaitRouter-TTL-300-8
 sim_time: 90000.0000
-created: 3048
-started: 17997
-relayed: 17616
-aborted: 381
-dropped: 15421
+created: 3055
+started: 17586
+relayed: 17170
+aborted: 414
+dropped: 16346
 removed: 0
-delivered: 2434
-delivery_prob: 0.7986
+delivered: 2056
+delivery_prob: 0.6730
 response_prob: 0.0000
-overhead_ratio: 6.2375
-latency_avg: 5278.3457
-latency_med: 4321.2000
-hopcount_avg: 2.5144
-hopcount_med: 2
-buffertime_avg: 13302.9368
-buffertime_med: 14800.7000
+overhead_ratio: 7.3512
+latency_avg: 4770.0905
+latency_med: 3828.0000
+hopcount_avg: 2.5428
+hopcount_med: 3
+buffertime_avg: 8707.4571
+buffertime_med: 7816.0000
 rtt_avg: NaN
 rtt_med: NaN

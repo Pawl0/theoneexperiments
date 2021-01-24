@@ -1,20 +1,20 @@
-Message stats for scenario SnW-BufferSize-45-7
+Message stats for scenario SprayAndWaitRouter-bufferSize-45M-7
 sim_time: 90000.0000
-created: 3057
-started: 18248
-relayed: 17859
-aborted: 388
-dropped: 14634
+created: 3054
+started: 17178
+relayed: 16694
+aborted: 483
+dropped: 17040
 removed: 0
-delivered: 2644
-delivery_prob: 0.8649
+delivered: 1584
+delivery_prob: 0.5187
 response_prob: 0.0000
-overhead_ratio: 5.7545
-latency_avg: 5806.9136
-latency_med: 4778.6000
-hopcount_avg: 2.4584
+overhead_ratio: 9.5391
+latency_avg: 3014.8542
+latency_med: 3043.0000
+hopcount_avg: 2.4634
 hopcount_med: 2
-buffertime_avg: 17742.9635
-buffertime_med: 17852.3000
+buffertime_avg: 5582.3419
+buffertime_med: 5745.0000
 rtt_avg: NaN
 rtt_med: NaN

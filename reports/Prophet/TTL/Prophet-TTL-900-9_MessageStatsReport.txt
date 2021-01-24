@@ -1,20 +1,20 @@
-Message stats for scenario Prophet-TTL-900-9
+Message stats for scenario ProphetRouter-TTL-900-9
 sim_time: 90000.0000
-created: 3045
-started: 1300481
-relayed: 1095819
-aborted: 204620
-dropped: 1094642
+created: 3049
+started: 349622
+relayed: 298023
+aborted: 51576
+dropped: 298560
 removed: 0
-delivered: 256
-delivery_prob: 0.0841
+delivered: 441
+delivery_prob: 0.1446
 response_prob: 0.0000
-overhead_ratio: 4279.5430
-latency_avg: 4303.4340
-latency_med: 3168.6000
-hopcount_avg: 6.2695
-hopcount_med: 5
-buffertime_avg: 286.2203
-buffertime_med: 125.1000
+overhead_ratio: 674.7891
+latency_avg: 5209.8322
+latency_med: 3867.0000
+hopcount_avg: 5.0658
+hopcount_med: 4
+buffertime_avg: 536.0697
+buffertime_med: 252.0000
 rtt_avg: NaN
 rtt_med: NaN

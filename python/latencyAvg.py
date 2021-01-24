@@ -12,7 +12,11 @@ def calcAverages(algorithm):
     os.getcwd()
     directory = os.fsencode(os.getcwd())
     print(directory)
-    for file in sorted(os.listdir(directory)):
+    sortedDirList = sorted(os.listdir(directory))
+    sortedDirList.insert(0,sortedDirList[-1])
+    sortedDirList.pop()
+    print("SortedDirList: ",sortedDirList)
+    for file in sortedDirList:
         filename = os.fsdecode(file)
         
         if filename.endswith("latency_avg.txt"): 

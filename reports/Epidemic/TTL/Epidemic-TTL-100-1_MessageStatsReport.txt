@@ -1,20 +1,20 @@
-Message stats for scenario Epidemic-TTL-100-1
+Message stats for scenario EpidemicRouter-TTL-100-1
 sim_time: 90000.0000
-created: 3049
-started: 1362485
-relayed: 1141156
-aborted: 221294
-dropped: 1139782
+created: 3047
+started: 365750
+relayed: 310721
+aborted: 55019
+dropped: 311302
 removed: 0
-delivered: 806
-delivery_prob: 0.2643
+delivered: 749
+delivery_prob: 0.2458
 response_prob: 0.0000
-overhead_ratio: 1414.8263
-latency_avg: 3222.2510
-latency_med: 3326.4000
-hopcount_avg: 15.4938
-hopcount_med: 15
-buffertime_avg: 275.7314
-buffertime_med: 179.3000
+overhead_ratio: 413.8478
+latency_avg: 3350.9319
+latency_med: 3506.0000
+hopcount_avg: 9.1295
+hopcount_med: 9
+buffertime_avg: 490.3278
+buffertime_med: 338.0000
 rtt_avg: NaN
 rtt_med: NaN

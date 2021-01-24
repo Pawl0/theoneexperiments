@@ -1,20 +1,20 @@
-Message stats for scenario SnW-TTL-900-10
+Message stats for scenario SprayAndWaitRouter-TTL-900-10
 sim_time: 90000.0000
-created: 3048
-started: 18073
-relayed: 17701
-aborted: 372
-dropped: 14579
+created: 3053
+started: 17568
+relayed: 17151
+aborted: 416
+dropped: 16222
 removed: 0
-delivered: 2550
-delivery_prob: 0.8366
+delivered: 2035
+delivery_prob: 0.6666
 response_prob: 0.0000
-overhead_ratio: 5.9416
-latency_avg: 6360.0903
-latency_med: 4778.7000
-hopcount_avg: 2.5255
-hopcount_med: 2
-buffertime_avg: 16444.1572
-buffertime_med: 14670.6000
+overhead_ratio: 7.4280
+latency_avg: 5193.0634
+latency_med: 4008.0000
+hopcount_avg: 2.5528
+hopcount_med: 3
+buffertime_avg: 8909.6536
+buffertime_med: 7650.0000
 rtt_avg: NaN
 rtt_med: NaN
